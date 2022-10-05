@@ -29,6 +29,8 @@ https://github.com/TrueFalseID/brutforce
 - cd brutforce
 - python run.py or python3 run.py
 
+### Tutorial :
+- https://youtu.be/pWrK0g1tUNE
 ###### Maybe that's all, if there's a mistake please forgive me, I'm just a young man who is thirsty for knowledge. Thank you so much for using this tool🙏
 
 <p align="center"> Follow by
